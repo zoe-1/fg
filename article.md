@@ -18,10 +18,10 @@ better understanding of 'free and open project governance' is very large and cro
 Despite organizations in the Free and Open Source software movement creating new methods
 to manage 'specialized knowledge', the movement seems to take their pioneer work for granted. For example, developers
 inside the movement may not be able to articulate the innovations. Taking 'free and open project governance' 
-for granted results in the principles of governance not being shared with outsiders.   
-There are a few elite organizations like Google utilizing 'free and open project governance' to develop 
-new products which become quite dominant.  But, in contrast to Google, most organizations do not understand how to make 
-the Free and Open Source software or 'free and open project governance' benefit their organization. 
+for granted results in the principles of governance not being shared with outsiders. There are a few elite organizations 
+like Google utilizing 'free and open project governance' to develop new products which become quite dominant.  But, in contrast 
+to Google, most organizations do not understand how to make the Free and Open Source software or 'free and open project governance' 
+benefit their organization. 
 
 Organizational leaders misunderstanding Free and Open Source software damages it's promotion and minimizes
 it's benefits to society. To help organizational leaders understand the benefits of Free and Open Source software, 

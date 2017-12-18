@@ -1,4 +1,4 @@
-Abstract - Governance of Free and Open Knowledge
+# Abstract - Governance of Free and Open Knowledge
 
 By Jon Swenson and contributors <br>
 License: Creative Commons Attribution-ShareAlike 4.0 International Public License

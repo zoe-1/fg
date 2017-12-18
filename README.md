@@ -15,10 +15,10 @@ subject of 'free and open project governance' as a means to promote themselves i
 appreciating the movement. Perhaps, organizations outside the movement would study the Free Software Movement to learn how 
 to manage their own 'specialized knowledge' better. 
 
-Because the business community is very family with Peter Drucker, this article suggests the Free Software movement should
-use his 'knowledge society' framework as a means to promote their pioneer work. Using his framework for the knowledge society 
-to talk about themselves would allow non-programmers to appreciate and learn from what the movement has done. Possibly, 
-Drucker's 'knowledge society' framework would be a great bridge for organizational leaders to enter the Free and Open Source 
+Because the business community is very family with Peter Drucker, this article suggests the Free and Open Source Software 
+movement should use his 'knowledge society' framework as a means to promote their pioneer work. Using his framework 
+as a means to talk about themselves would allow non-programmers to appreciate what the movement has done. Possibly, 
+the vocabulary of the framework would be a great bridge for organizational leaders to enter the Free and Open Source 
 software world. 
 
 # Contributors

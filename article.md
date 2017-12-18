@@ -1,7 +1,7 @@
 Abstract - Governance of Free and Open Knowledge
 
-By Jon Swenson and contributors
-Licnese: Creative Commons Attribution-ShareAlike 4.0 International Public License
+By Jon Swenson and contributors 
+License: Creative Commons Attribution-ShareAlike 4.0 International Public License
 
 The Free and Open Source software movement needs to make a strategic shift in how they think
 and talk about project governance.  The shift will result in a greater appreciation for the movement
@@ -84,11 +84,11 @@ making; the changing workforce; the nonprofits and their management; and so on.
 ---------------------------------------------------------------------------------------------------
 #####  TERMS  ##### 
 ---------------------------------------------------------------------------------------------------
-'free and open project governance'
-'free and open networked knowledge'
-'knowledge society'     Drucker
-'specialized knowledge' Drucker
-'networked society'     Drucker
+'free and open project governance' 
+'free and open networked knowledge' 
+'knowledge society'     Drucker 
+'specialized knowledge' Drucker 
+'networked society'     Drucker 
 
 
 {fsfArticleOne}

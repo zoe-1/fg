@@ -50,7 +50,8 @@ the Free and Open Source software movement for 'specialized knowledge' managemen
 5) spur business, education, and public sector leaders to consider 'free and open project governance'
 as a means to maintain their 'specialized knowledge'.
 
-To start our discussion we first look at Drucker's concept of the 'knowledge society' and the challenges
+In the future, plan to add the following chapters.
+First, a chapter will look at Drucker's concept of the 'knowledge society' and the challenges
 of managing 'specialized knowledge'.  Second, we look at 'free and open project governance' as a
 means to manage 'specialized knowledge' or software.  Exciting new methods to make 'specialized knowledge'
 productive have been created by the Free and Open Source software movement.  Third, we consider

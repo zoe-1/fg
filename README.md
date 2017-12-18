@@ -22,7 +22,7 @@ the vocabulary of the framework would be a great bridge for organizational leade
 software world. 
 
 # Contributors
-This article is a work in progress.  Contributions for others are welcomed.
+This article is a work in progress.  Contributions from others are welcomed.
 
 
 # License

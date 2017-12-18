@@ -23,6 +23,7 @@ software world.
 
 # Contributors
 This article is a work in progress.  Contributions from others are welcomed.
+Open an issue is you would like to discuss a specific subject.
 
 
 # License

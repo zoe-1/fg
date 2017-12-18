@@ -1,6 +1,3 @@
-# License
-Creative Commons Attribution 4.0 International Public License
-
 # ARTICLE INTRO 
 
 The Free and Open Source Software movement are pioneers in managing 'free and open expert knowledge'.
